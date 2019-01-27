@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orbital Platform 1", "Orbital Platform 1\Orbital Platform 1.csproj", "{B09B4F5C-967A-4B83-B76A-A9BB9113BD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09B4F5C-967A-4B83-B76A-A9BB9113BD62}.Debug|x64.ActiveCfg = Debug|x64
+		{B09B4F5C-967A-4B83-B76A-A9BB9113BD62}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A9FD32-7350-4D31-AB1E-ACCA1BC18149}
+	EndGlobalSection
+EndGlobal
